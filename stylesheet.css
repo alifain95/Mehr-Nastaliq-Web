@@ -5,4 +5,5 @@ src: 	url(Mehr_Nastaliq_Web v. 2.0.ttf);
 	font-weight: normal;
 	font-style: normal;
     	font-display: swap;
+	unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
 }
