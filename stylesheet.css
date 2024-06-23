@@ -1,6 +1,8 @@
 @font-face {
 font-family: mehr;
-src: url(Mehr_Nastaliq_Web v. 2.0.ttf);
-src: url(Mehr_Nastaliq_Web v.2.0.woff) format('woff');
-font-weight: normal;
+src: 	url(Mehr_Nastaliq_Web v. 2.0.ttf);
+	url(Mehr_Nastaliq_Web v.2.0.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+    	font-display: swap;
 }
