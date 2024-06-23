@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Mehr Nastaliq Web';
-  src: url("../fonts/Mehr-Nastaliq-Web.eot");
-  src: url("../fonts/Mehr-Nastaliq-Web.eot") format("embedded-opentype"), 
-       url("../fonts/Mehr-Nastaliq-Web.woff") format("woff"), 
-       url("../fonts/Mehr-Nastaliq-Web.ttf") format("truetype"), 
-       url("../fonts/Mehr-Nastaliq-Web.svg") format("svg");
+  src: url("../fonts/Mehr_Nastaliq_Web.eot");
+  src: url("../fonts/Mehr_Nastaliq_Web.eot") format("embedded-opentype"), 
+       url("../fonts/Mehr_Nastaliq_Web.woff") format("woff"), 
+       url("../fonts/Mehr_Nastaliq_Web.ttf") format("truetype"), 
+       url("../fonts/Mehr_Nastaliq_Web.svg") format("svg");
   unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
 }
